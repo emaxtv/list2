@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="iMaxTV: Kids",NATGEO KIDS
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/11965.ts
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.starbr.in/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="iMaxTV: Kids",NATGEO KIDS HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/11996.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICK" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="iMaxTV: Kids",NICK
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1206.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="NICK HD" tvg-logo="http://img.starbr.in/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="iMaxTV: Kids",NICK HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5093.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="iMaxTV: Kids",NICK JR
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/986.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICK JR HD" tvg-logo="http://img.starbr.in/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="iMaxTV: Kids",NICK JR HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/16210.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="iMaxTV: Kids",TOONCAST
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/919.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://img.starbr.in/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="iMaxTV: Kids",TOONCAST HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/17974.ts
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.png" group-title="iMaxTV: Kids",ZOOMOO
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20833.ts
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZOOMOO HD" tvg-logo="http://iptv.starbr.in/files/imagem_canal/1516364766_7234ec7b71476b4b3b9d88c69f6cc7a3a3585f04.png" group-title="iMaxTV: Kids",ZOOMOO HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20834.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="iMaxTV: Kids",GLOOB
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1023.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="iMaxTV: Kids",GLOOB HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5086.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="iMaxTV: Kids",GLOOBINHO
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/17135.ts
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1521421376_ae08de19590a8eb2d179c29d6f61238bf675c0dc.jpg" group-title="iMaxTV: Kids",GLOOBINHO HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/17136.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="iMaxTV: Kids",DISCOVERY KIDS
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1080.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="iMaxTV: Kids",DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5081.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="iMaxTV: Kids",DISNEY CHANNEL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1071.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://img.starbr.in/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="iMaxTV: Kids",DISNEY CHANNEL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5082.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="iMaxTV: Kids",DISNEY JR
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1068.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="http://img.starbr.in/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="iMaxTV: Kids",DISNEY JR HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20809.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="iMaxTV: Kids",DISNEY XD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1065.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="http://img.starbr.in/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="iMaxTV: Kids",DISNEY XD HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20810.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="iMaxTV: Kids",CARTOON NETWORK
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1095.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="iMaxTV: Kids",CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2479.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="iMaxTV: Kids",BABY TV
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/11970.ts
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV HD" tvg-logo="http://img.starbr.in/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="iMaxTV: Kids",BABY TV HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20796.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="iMaxTV: Kids",BOOMERANG
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1102.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="iMaxTV: Kids",BOOMERANG HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20801.ts
